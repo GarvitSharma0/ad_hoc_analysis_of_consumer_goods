@@ -38,7 +38,3 @@ To address this, we performed **SQL-based ad-hoc analysis** and created **visual
 - Sales hit a low in **March 2020 (COVID impact)** but peaked in **November 2020** with ₹20.46M.  
 - **Retailer channel** contributed the most to sales (**72.62%**).  
 - Key customers and top-performing products were identified for **better targeting**.  
-
----
-
-## 📂 Project Structure
